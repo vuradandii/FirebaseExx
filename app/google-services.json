@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618372603292",
+    "project_id": "fir-exx-16ffb",
+    "storage_bucket": "fir-exx-16ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618372603292:android:b015ddf5db14b8f7423c59",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7X6fH3PpKRC4ky050_RwvquffbifQesY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
